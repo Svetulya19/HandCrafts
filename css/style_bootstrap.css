@@ -1,0 +1,26 @@
+.jumbotron {
+    height: 5em;
+    background-size: cover;
+    color: whitesmoke;
+
+}
+
+#1 {
+    background-color: red;
+}
+
+#2 {
+    background-color: darkorange;
+}
+
+#3 {
+    background-color: yellow;
+}
+
+#4 {
+    background-color: mediumseagreen;
+}
+
+#5 {
+    background-color: dodgerblue;
+}
