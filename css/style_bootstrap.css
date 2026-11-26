@@ -1,26 +1,37 @@
-.jumbotron {
-    height: 5em;
-    background-size: cover;
+/*.jumbotron {*/
+/*    height: 5em;*/
+/*    background-size: cover;*/
+/*    color: whitesmoke;*/
+
+/*}*/
+
+figure >.fw-bold {
     color: whitesmoke;
 
 }
 
-#1 {
+.rectangle {
+    padding-bottom: 2px;
+    padding-top: 2px;
+    border-radius: 0;
+    margin: 0;
+}
+.rectangle:nth-child(1) {
     background-color: red;
 }
 
-#2 {
+.rectangle:nth-child(2) {
     background-color: darkorange;
 }
 
-#3 {
+.rectangle:nth-child(3) {
     background-color: yellow;
 }
 
-#4 {
-    background-color: mediumseagreen;
+.rectangle:nth-child(4) {
+    background-color: forestgreen;
 }
 
-#5 {
+.rectangle:nth-child(5) {
     background-color: dodgerblue;
 }
